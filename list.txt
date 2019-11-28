@@ -166,7 +166,7 @@ Lifetime,http://pili-live-hdl.qhmywl.com/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.
 TVN,http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
 幸福空间居家台,http://pili-live-hdl.qhmywl.com/dsdtv/891dfa401663622b29ab70c16ea2273e.flv
 靖天育乐台,http://pili-live-hdl.qhmywl.com/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.flv
-NHKWorld,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 直播源介绍,https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
 港台体育,#genre#
 博斯高球1台,http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
