@@ -116,103 +116,103 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/f94be038bca84147bbf132d8ddd9bb39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png"  group-title="综合娱乐",J2
 http://pili-live-hdl.qhmywl.com:80/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png"  group-title="综合娱乐",TVBS欢乐台
-http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E7%B2%BE%E9%87%87.png"  group-title="综合娱乐",TVBS精采台
-http://pili-live-hdl.qhmywl.com/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png"  group-title="港台新闻",无线新闻
 http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png"  group-title="港台新闻",寰宇新闻
-http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png"  group-title="港台新闻",中天新闻台
-http://pili-live-hdl.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e1a397539e76f45bbbf39d1467024aa3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"  group-title="港台新闻",东森新闻台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png"  group-title="港台新闻",非凡新闻台
-http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png"  group-title="港台新闻",中视新闻
-http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
 #EXTINF:-1 tvg-logo="http://images-sg.ott.kaltura.com/Service.svc/GetImage/p/147/entry_id/a331c6f05b504ff086a21b9897bfd688_12/version/20/width/50/height/50/quality/100"  group-title="港台新闻",新加坡亚洲新闻台
-http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1aab6cf57296bdefc6f4bea94702782a.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ifun3.png"  group-title="港台新闻",寰宇新闻2
-http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png"  group-title="港台新闻",CNN NEWS
-http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png"  group-title="港台新闻",东森财经新闻台
-http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png"  group-title="港台新闻",寰宇财经
-http://pili-live-hdl.qhmywl.com/dsdtv/77c9bab3af161386df16ad9d8a3f3541.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png"  group-title="港台新闻",台视财经台
-http://pili-live-hdl.qhmywl.com/dsdtv/c5d061725e49943973c43a404b913f17.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c5d061725e49943973c43a404b913f17.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png"  group-title="港台新闻",FOXNews
-http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b78a7c4f460285596b53bfa802eca8e8.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"  group-title="港台新闻",SKY NEWS
-http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/64a4807c0cf482cffe922d7b8f091303.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"  group-title="港台新闻",NHK WORLD
-http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png"  group-title="港台新闻",BBC World News
-http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MTV.png"  group-title="综合娱乐",MTV
-http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/116911efa30e70c9cf64ea9a0e990a05.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png"  group-title="综合娱乐",CHANNEL[V]
-http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery%E7%A7%91%E5%AD%A6.png"  group-title="港台育乐",Discovery科学
-http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png"  group-title="港台育乐",DiscoveryAsia
-http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="港台育乐",Discovery
-http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/ef2748398207873cae12b151ae78b0af.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png"  group-title="港台育乐",国家地理悠人频道
-http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0293b493509468a0a896adea05ad5e30.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="港台育乐",国家地理野生频道
-http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a4540237835700ece1fc1e54ce826125.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png"  group-title="港台育乐",国家地理频道
-http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1b4017a457de80eec599895ec807e124.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png"  group-title="港台育乐",BBCEarth
-http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f7146ac8e65cb75112431f87ddcea22e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"  group-title="港台育乐",动物星球
-http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png"  group-title="港台育乐",美食星球
-http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png"  group-title="港台育乐",亚洲美食频道
-http://pili-live-hdl.qhmywl.com/dsdtv/13e17ff9d96096b87e7902d77452ae76.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/13e17ff9d96096b87e7902d77452ae76.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3MUCH.png"  group-title="港台育乐",年代MUCH
-http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png"  group-title="综合娱乐",纬来日本台
-http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyuzonghe.png"  group-title="综合娱乐",寰宇HD综合
-http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/82b78befe54a601876654e1db3e3741a.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png"  group-title="港台育乐",TV5 MONDE
-http://pili-live-hdl.qhmywl.com/dsdtv/a9dd7099d0abf47c5e17f8038234df22.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a9dd7099d0abf47c5e17f8038234df22.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png"  group-title="港台影视",靖天映画
-http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4364abb0a9f358049a535f4692cd49b5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png"  group-title="港台影视",靖天电影台
-http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png"  group-title="港台影视",FOXMOVIES
-http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b3d2208824d1ca27dad3068e376ab557.m3u8
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506916553_cinemax.jpg"  group-title="港台影视",CINEMAX
-http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png"  group-title="港台影视",好莱坞电影台
-http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%BA%AA%E5%AE%9E.png"  group-title="港台影视",影迷数位纪实
-http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png"  group-title="港台影视",CatchPlay电影
-http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png"  group-title="港台影视",HBOHits
-http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png"  group-title="港台影视",HBOSignature
-http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png"  group-title="港台影视",HBOFamily
-http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png"  group-title="港台影视",HBOHD
-http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/13e83b20bc716e68221da438d761d352.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png"  group-title="港台影视",LSTime电影台
-http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a5da9875c963d704ac5dd8f866869723.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png"  group-title="港台影视",卫视电影台
-http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NEXTTVMovie.png"  group-title="港台影视",壹电视电影台
-http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/eb53b692ccbe8c836bc20be6734a9555.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png"  group-title="港台影视",纬来电影台
-http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4f10b67646969a422a5490deaaabbc69.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png"  group-title="港台影视",东森电影台
 http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png"  group-title="港台影视",东森洋片台
