@@ -462,7 +462,7 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png"  group-title="卡通亲子",靖天卡通台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8
 #EXTINF:-1 tvg-logo="https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-9/15977892_620599624814268_5294722905023097409_n.png?_nc_cat=100&_nc_oc=AQkyu4FqvLP1_UX47PodVDLf7XhiiVI2p-4fxMtZZJZeJtU8yKAFdngxrNWEi6ggs1M&_nc_ht=scontent-hkg3-2.xx&oh=5de97d1e776197707b77f257e136a9af&oe=5E5BE957"  group-title="港台影视",ANIMAXHD
-http://pili-live-hdl.qhmywl.com:80/dsdtv/13b6c6ecbb388c105fd9d98338162abb.m3u8
+http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 #EXTINF:-1 tvg-logo="http://www.kasparov.com/wp-content/uploads/2018/11/Bloomberg-Television-Logo-600x310.jpg"  group-title="港台新闻",BloombergTV
 http://pili-live-hdl.qhmywl.com:80/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
 #EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg"  group-title="综合娱乐",香港603
@@ -475,6 +475,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/991d0a1e4fc3c270d037fae11c587741.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/49d33b7521ceef2115572e8906e9f906.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png"  group-title="港台育乐",幸福空间居家台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台育乐",NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台育乐",直播源介绍
 https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
 #EXTINF:-1 tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台影视",直播源介绍
