@@ -111,6 +111,9 @@ AXN,http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 TVBS,http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.flv
 无线新闻,http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162#http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2#P2p://185.169.196.146:9906/5ad32bdc000b780449ee52022e841cf7.ts#p2p://51.79.41.138:18912/5b140953000cd4a817d20ad057051e23.ts.ts#p2p://51.79.41.138:18912/5b1409fc000a355e17d49e4d52ad164f.ts
+香港有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+HKS 香港卫視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 寰宇新闻,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
 中天新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
 东森新闻台,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
