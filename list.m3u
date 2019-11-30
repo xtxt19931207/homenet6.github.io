@@ -493,9 +493,9 @@ https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%B
 https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台育乐",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hkc_news_channel.png" group-title="港台新闻",香港有线新闻
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" group-title="港台新闻",香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台新闻",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rthk_31_hk.png" group-title="港台新闻",RHK31
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港台新闻",RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
