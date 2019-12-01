@@ -502,4 +502,12 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港台新闻",RHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="港台影视",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
+rtmp://58.200.131.2:1935/livetv/chchd 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="港台影视",CHC家庭电影
+rtmp://58.200.131.2:1935/livetv/chctv 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="港台影视",CHC动作电影
+rtmp://58.200.131.2:1935/livetv/chcatv
+#EXTINF:-1 tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台影视",凤凰电影台
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台新闻",星空卫视
+rtmp://58.200.131.2:1935/livetv/startv 
