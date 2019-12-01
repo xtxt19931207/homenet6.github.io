@@ -499,3 +499,7 @@ https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港台新闻",RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港台新闻",RHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="港台影视",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
