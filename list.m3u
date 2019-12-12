@@ -102,8 +102,6 @@ http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg"  group-title="精彩4K",纯享4K
 http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-logo="http://img.17ok.com/admin/media/images/20180905-160138.jpg"  group-title="精彩4K",咪咕体育4k
-http://39.134.52.181:80/PLTV/88888888/224/3221226162/1576164115-1-157616382.hls.ts
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文
