@@ -222,7 +222,7 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 纬来日本台,http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
 寰宇HD综合,http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.flv
 靖天国际,http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.flv
-TVB星河频道,http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#msc://CXHMovie
+TVB星河频道,http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000013170794&ct=18077&tsum=39b32f8b21235d7c92cb937a91c239bd#msc://CXHMovie#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv
 靖天欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.flv
 靖天日本台,http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.flv
 卫视合家欢,http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.flv
