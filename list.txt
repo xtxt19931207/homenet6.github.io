@@ -54,6 +54,7 @@ CCTV-17农村农业,http://39.135.36.140:18890/000000001000/1000000005000056836/
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+我和我的祖国4K,http://cache.m.iqiyi.com/mus/text/2164569700/6567a225b425bff77c3ceae330d671d9/afbe8fd3d73448c9/1003116241/20191210/72/0b/10f707935284b46cefd8c1579a27b6db.m3u8?qd_originate=tmts_py&tvid=2164569700&bossStatus=2&qd_vip=1&px=ab0NGIBWjWdLqFAbnOKWG9YcDalO0PGvIum2k6m1d4EoyXeL2g2nPyU71QekU7m2yngXm3ef&src=02022001010000000000&prv=0&previewType=1&previewTime=6&from=&qd_time=1576242047334&qd_p=70083eb9&qd_asc=ab62725a24cadce65559ce0a5999dfef&qypid=2164569700_04000000001000000000_19&qd_k=47e498b9923faf0b0c398be99406d84c&isdol=0&code=1&ff=265ts&iswb=0&vf=b31deb9505af474b881169f89d5478b4&np_tag=nginx_part_tag
 港台影视,#genre#
 靖天映画,http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.flv
 靖天电影台,http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
