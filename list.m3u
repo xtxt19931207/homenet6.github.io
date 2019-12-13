@@ -102,8 +102,9 @@ http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg"  group-title="精彩4K",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.ali213.net/picfile/News/2019/10/03/584_2019100370944459.jpg"  group-title="精彩4K",我和我的祖国4k
-我和我的祖国4k,http://cache.m.iqiyi.com/mus/text/2164569700/6567a225b425bff77c3ceae330d671d9/afbe8fd3d73448c9/1003116241/20191210/72/0b/10f707935284b46cefd8c1579a27b6db.m3u8?qd_originate=tmts_py&tvid=2164569700&bossStatus=2&qd_vip=1&px=ab0NGIBWjWdLqFAbnOKWG9YcDalO0PGvIum2k6m1d4EoyXeL2g2nPyU71QekU7m2yngXm3ef&src=02022001010000000000&prv=0&previewType=1&previewTime=6&from=&qd_time=1576242047334&qd_p=70083eb9&qd_asc=ab62725a24cadce65559ce0a5999dfef&qypid=2164569700_04000000001000000000_19&qd_k=47e498b9923faf0b0c398be99406d84c&isdol=0&code=1&ff=265ts&iswb=0&vf=b31deb9505af474b881169f89d5478b4&np_tag=nginx_part_tag
+#EXTINF:-1 tvg-logo="https://theinterview.asia/wp-content/uploads/2019/10/156993350216546800_a640x364.jpg"  group-title="精彩4K",我和我的祖国4k
+http://cache.m.iqiyi.com/mus/text/2164569700/6567a225b425bff77c3ceae330d671d9/afbe8fd3d73448c9/1003116241/20191210/72/0b/10f707935284b46cefd8c1579a27b6db.m3u8
+ 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
