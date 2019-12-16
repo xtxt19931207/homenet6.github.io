@@ -215,7 +215,7 @@ ANIMAXHD,http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.
 直播源介绍,https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
 综合娱乐,#genre#
 明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
-翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv#http://59.148.103.41:8000/bysid/1
+翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv#http://59.148.103.41:8000/bysid/1#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
 TVBS欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
 TVBS精采台,http://pili-live-hdl.qhmywl.com/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.flv
