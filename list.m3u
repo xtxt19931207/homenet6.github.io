@@ -533,3 +533,5 @@ rtmp://58.200.131.2:1935/livetv/startv
 
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/12/17/PozKAeqw2Xp9uCk.jpg"  group-title="佳片赏析",鬼影特工
 https://patient-bread-bb31.bbsok.workers.dev/鬼影特工.6.underground.2019.internal.1080p.web.x264-strife.mkv
+#EXTINF:-1 tvg-logo="https://i.loli.net/2019/12/17/NhRLeib4Zsaol8x.jpg"  group-title="佳片赏析",爱尔兰人
+https://patient-bread-bb31.bbsok.workers.dev/The.Irishman.2019.1080p.NF.WEB-DL.DDP5.1.ATMOS.H264-CMRG.mkv
