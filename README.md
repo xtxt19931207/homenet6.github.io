@@ -1,11 +1,11 @@
 # homenet6.github.io
 家庭网络资源分享(HomeNet)群维护的IPTV PlayList 发布地址
-m3u
-https://homenet6.github.io/list.m3u
-txt
-https://homenet6.github.io/list.txt
-佳片赏析分类EPG
-https://homenet6.github.io/epg.xml
+# m3u
+# https://homenet6.github.io/list.m3u
+# txt
+# https://homenet6.github.io/list.txt
+# 佳片赏析分类EPG
+# https://homenet6.github.io/epg.xml
 
 
 家庭网络资源分享(HomeNet)群
