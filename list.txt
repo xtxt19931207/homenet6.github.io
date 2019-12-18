@@ -224,7 +224,8 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 纬来日本台,http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
 寰宇HD综合,http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.flv
 靖天国际,http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.flv
-TVB星河频道,http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000015391574&ct=17984&tsum=168fc6ebb3cd296ba6444593acba415d#msc://CXHMovie#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+TVB星河频道,#msc://CXHMovie#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+ETtoday综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.m3u8
 靖天欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.flv
 靖天日本台,http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.flv
 卫视合家欢,http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.flv
