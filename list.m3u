@@ -501,6 +501,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/991d0a1e4fc3c270d037fae11c587741.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/49d33b7521ceef2115572e8906e9f906.m3u8
 #EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="港台育乐",幸福空间居家台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
+#EXTINF:-1 tvg-id="7198" tvg-name="Ettoday" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/etoday.png" group-title="综合娱乐",ETtoday综合台
+http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台育乐",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台育乐",直播源介绍
