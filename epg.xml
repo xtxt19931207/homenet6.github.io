@@ -19,7 +19,11 @@
    <channel id="100006">
         <display-name lang="zh">JOKER</display-name>
     </channel>
- 
+   <channel id="100100">
+        <display-name lang="zh">直播源介绍</display-name>
+    </channel>
+  
+  
 <programme start="20191217033000 +0800" stop="20221218043000 +0800" channel="100001">
 <title lang="zh">我和我的祖国</title>
 <desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。七位导演分别取材新中国成立70周年以来，祖国经历的无数个历史性经典瞬间。讲述普通人与国家之间息息相关密不可分的动人故事。聚焦大时代大事件下，小人物和国家之间，看似遥远实则密切的关联，唤醒全球华人共同回忆。</desc> </programme>
@@ -45,6 +49,11 @@
 <programme start="20191217033000 +0800" stop="20221218043000 +0800" channel="100006">
 <title lang="zh">JOKER</title>
 <desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。电影《小丑》以同名DC漫画角色为基础，由华纳兄弟影业公司发行，计划于2019年10月4日上映。本片的故事将独立于DCEU之外，故事背景设置在20世纪80年代，讲述了一位生活陷入困境的脱口秀喜剧演员渐渐走向精神的崩溃，在哥谭市开始了疯狂的犯罪生涯，最终成为了蝙蝠侠的宿敌“小丑”的故事。</desc> </programme>
+
+<programme start="20191217033000 +0800" stop="20221218043000 +0800" channel="100100">
+<title lang="zh">直播源介绍</title>
+<desc lang="zh">  您正在使用的IPTV频道订阅列表，是由“家庭网络资源共享群”（电报ID：@homenet6）群友集体收集、整理，基于电视多提供的频道直播源，增补部分常见频道整合而成。用户交流电报群：@homenet6 欢迎加入！</desc> </programme>
+
 </tv> 
   
 
