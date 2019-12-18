@@ -105,12 +105,47 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文
+http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文(备1)
+rtmp://58.200.131.2:1935/livetv/fhzw
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文(备2)
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="港台新闻",凤凰资讯
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文(备3)
+http://125.210.152.21:9090/live/FHZW.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"  group-title="港台新闻",凤凰中文(备4)
+http://live.centerch.com/fhws.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="港台新闻",凤凰资讯
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港 
-http://198.16.106.58:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000017200487&ct=18184&tsum=479b00120dbe8df64c637d131ceb1622
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="港台新闻",凤凰资讯(备1)
+http://125.210.152.21:9090/live/FHZX.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港 
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港(备1)
+http://192.200.97.98:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港(备2)
+http://crack.watch.hls.chunfei.top/live/atv.m3u8?token=CrackWatch&channel=44ca88e2d2844038cdb169e25ac5fbbf
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港(备3)
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新闻",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png"  group-title="综合娱乐",明珠台
