@@ -119,6 +119,10 @@ http://live.centerch.com/fhws.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="港台新闻",凤凰资讯(备1)
 http://125.210.152.21:9090/live/FHZX.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="港台新闻",凤凰资讯(备2)
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="港台新闻",凤凰资讯(备3)
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港 
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"  group-title="港台新闻",凤凰香港(备1)
