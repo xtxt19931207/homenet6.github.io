@@ -118,7 +118,7 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 TVBS,http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.flv
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162#http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2#P2p://185.169.196.146:9906/5ad32bdc000b780449ee52022e841cf7.ts#p2p://51.79.41.138:18912/5b140953000cd4a817d20ad057051e23.ts.ts#p2p://51.79.41.138:18912/5b1409fc000a355e17d49e4d52ad164f.ts#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
-香港有线新闻http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+香港有线新闻,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 HKS 香港卫視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -225,7 +225,7 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 纬来日本台,http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
 寰宇HD综合,http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.flv
 靖天国际,http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.flv
-TVB星河频道,#msc://CXHMovie#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+TVB星河频道,msc://CXHMovie#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
 ETtoday综合台,http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.m3u8
 靖天欢乐台,http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.flv
 靖天日本台,http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.flv
