@@ -481,6 +481,11 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
 http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.m3u8
 
 
+#EXTINF:-1 tvg-id="6148" tvg-name="DREAMWORKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png" group-title="卡通亲子",Dreamworks
+http://pili-live-hdl.qhmywl.com/dsdtv/aae9c139f056e6c003448ba1e4908ee3.m3u8
+
+
+
 #EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="卡通亲子",曼迪日本
 http://pili-live-hdl.qhmywl.com:80/dsdtv/d9445086fd2dd474087674f638f2a8ed.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/baby-tv-crop-15217904812391954901115-1522393214914.jpg" group-title="卡通亲子",BabyTV
