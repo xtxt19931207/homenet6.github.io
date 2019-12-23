@@ -33,6 +33,8 @@ http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 http://39.135.36.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农村农业
 http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
+#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="央视频道",直播源介绍
+https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视高清
 http://39.135.36.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视高清
@@ -95,6 +97,8 @@ http://39.135.36.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ys
 http://39.135.36.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东体育
 http://27.36.62.162:9090/live/gdsportsHD_7000.m3u8
+#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="卫视频道",直播源介绍
+https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
@@ -182,6 +186,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/64a4807c0cf482cffe922d7b8f091303.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="港台新闻",BBC World News
 http://pili-live-hdl.qhmywl.com:80/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
+#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台新闻",直播源介绍
+https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 #EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MTV.png" group-title="综合娱乐",MTV
 http://pili-live-hdl.qhmywl.com:80/dsdtv/116911efa30e70c9cf64ea9a0e990a05.m3u8
 #EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="综合娱乐",CHANNEL[V]
@@ -266,6 +272,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/78c4edcada009192a9b1f8976b5692ab.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/357252de83720e30d40c00bfba69c497.m3u8
 #EXTINF:-1 tvg-id="6162" tvg-name="DIVA" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DIVA.png" group-title="港台育乐",DIVA
 http://pili-live-hdl.qhmywl.com:80/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.m3u8
+#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台育乐",直播源介绍
+https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 #EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="港台影视",福克斯家庭电影
 http://pili-live-hdl.qhmywl.com:80/dsdtv/440b3d3c474813d7ead7d3a795978e69.m3u8
 #EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85.png" group-title="综合娱乐",靖天国际
@@ -324,6 +332,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/a645bdeafb1216c23352144c3505bd8c.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/c762110b3eef8bcccce5863643dd66aa.m3u8
 #EXTINF:-1 tvg-id="7180" tvg-name="采昌影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7.png" group-title="港台影视",采昌影剧
 http://pili-live-hdl.qhmywl.com:80/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.m3u8
+#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台影视",直播源介绍
+https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 #EXTINF:-1 tvg-id="6182" tvg-name="BlueAntExtreme" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png" group-title="港台育乐",BlueAntExtreme
 http://pili-live-hdl.qhmywl.com:80/dsdtv/7b3b2e1d0006091415635226a2ac5d86.m3u8
 #EXTINF:-1 tvg-id="6156" tvg-name="BlueAntEntertainment" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BlueAntEntertainment.png" group-title="港台育乐",BlueAntEntertainment
@@ -476,16 +486,10 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/c865782e4a131efe17651165835ca37e.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/33de03293563010671a856688d63d4ee.m3u8
 #EXTINF:-1 tvg-id="7173" tvg-name="iFun1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ifun1.png" group-title="卡通亲子",iFun1
 http://pili-live-hdl.qhmywl.com:80/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
-
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="卡通亲子",Disney channel
 http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.m3u8
-
-
 #EXTINF:-1 tvg-id="6148" tvg-name="DREAMWORKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png" group-title="卡通亲子",Dreamworks
 http://pili-live-hdl.qhmywl.com/dsdtv/aae9c139f056e6c003448ba1e4908ee3.m3u8
-
-
-
 #EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="卡通亲子",曼迪日本
 http://pili-live-hdl.qhmywl.com:80/dsdtv/d9445086fd2dd474087674f638f2a8ed.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/650/2018/baby-tv-crop-15217904812391954901115-1522393214914.jpg" group-title="卡通亲子",BabyTV
@@ -502,6 +506,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/0c0a03db510687f73c455afcc220386b.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.m3u8
 #EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="卡通亲子",靖天卡通台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8
+#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="卡通亲子",直播源介绍
+https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 #EXTINF:-1 tvg-id="6115" tvg-name="AnimaxHD" tvg-logo="https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-9/15977892_620599624814268_5294722905023097409_n.png?_nc_cat=100&_nc_oc=AQkyu4FqvLP1_UX47PodVDLf7XhiiVI2p-4fxMtZZJZeJtU8yKAFdngxrNWEi6ggs1M&_nc_ht=scontent-hkg3-2.xx&oh=5de97d1e776197707b77f257e136a9af&oe=5E5BE957" group-title="港台影视",ANIMAXHD
 http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://www.kasparov.com/wp-content/uploads/2018/11/Bloomberg-Television-Logo-600x310.jpg" group-title="港台新闻",BloombergTV
@@ -520,20 +526,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
 http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台育乐",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台育乐",直播源介绍
-https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
-#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台影视",直播源介绍
-https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
 #EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="综合娱乐",直播源介绍
-https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
-#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台新闻",直播源介绍
-https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
-#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="卡通亲子",直播源介绍
-https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
-#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="央视频道",直播源介绍
-https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
-#EXTINF:-1 tvg-id="100100" tvg-name="直播源介绍" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="卫视频道",直播源介绍
-https://www.bbsok.cf/wp-content/uploads/2019/11/%E7%9B%B4%E6%92%AD%E6%BA%90%E7%BB%B4%E6%8A%A4%E9%A2%91%E9%81%93.mp4
+https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台育乐",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://www.iptv16.com/wp-content/uploads/2019/08/HK-CH-5.jpg" group-title="港台新闻",香港有线新闻
