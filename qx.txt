@@ -148,3 +148,10 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
 DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
+奈菲精选,#genre#
+鬼影特工,https://patient-bread-bb31.bbsok.workers.dev/鬼影特工.6.underground.2019.internal.1080p.web.x264-strife.mkv
+爱尔兰人,https://patient-bread-bb31.bbsok.workers.dev/The.Irishman.2019.1080p.NF.WEB-DL.DDP5.1.ATMOS.H264-CMRG.mkv
+唐顿庄园,https://patient-bread-bb31.bbsok.workers.dev/Downton.Abbey.2019.1080p.BluRay.DTS-HD.MA.7.1.x265-10bit-HDS.mkv
+续命之徒,https://patient-bread-bb31.bbsok.workers.dev/El.Camino.A.Breaking.Bad.Movie.2019.1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC-MZABI.mkv
+热气球飞行家,https://red-mud-57e2.mandaluo.workers.dev/The.Aeronauts.2019.1080p.AMZN.WEBRip.DD5.1.x264-FGT.mkv
+教宗的承继,https://broad-king-f11f.bsok.workers.dev/the.two.popes.2019.internal.1080p.web.x264-strife.mkv
