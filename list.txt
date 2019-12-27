@@ -145,7 +145,7 @@ FOXHD,http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.
 中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台育乐,#genre#
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK华语视界,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 国家地理野生频道,http://pili-live-hdl.qhmywl.com:80/dsdtv/a4540237835700ece1fc1e54ce826125.m3u8
 美食星球,http://pili-live-hdl.qhmywl.com:80/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
 BBCLifestyle,http://pili-live-hdl.qhmywl.com:80/dsdtv/5e80f4a9e17c991df381030c65856687.m3u8
