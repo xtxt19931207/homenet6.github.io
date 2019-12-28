@@ -65,7 +65,7 @@ LSTime电影台,http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866
 卫视电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 纬来电影台,http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
 东森电影台,vjms://121.14.222.75:8500:3502/live/cid=338#http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
-东森洋片台,http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
+东森洋片台,vjms://113.96.133.24:8500:3502/live/cid=343#http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
 龙华电影,http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华经典,http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
 龙华洋片,http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
@@ -163,6 +163,7 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 东森综合台,vjms://121.14.222.75:8500:3502/live/cid=333#http://pili-live-hdl.qhmywl.com/dsdtv/7485194388c0ca1d43a664701afb2ff2.flv
 中天综合台,vjms://121.14.222.75:8500:3502/live/cid=341#http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.flv
 中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
+东森超视,vjms://113.96.133.24:8500:3502/live/cid=426
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 精彩4K,#genre#
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
