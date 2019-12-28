@@ -226,7 +226,7 @@ http://27.36.62.162:9090/live/CHCHD_7000.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="港台影视",CHC家庭电影
 http://27.36.62.162:9090/live/CHChometheatre_1500.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="港台影视",CHC动作电影
-http://27.36.62.162:9090/live/CHCactionmovie_1500.m3u8
+rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台影视",凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="100100" tvg-name="反馈交流群" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台影视",反馈交流群
