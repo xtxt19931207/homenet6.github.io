@@ -145,10 +145,10 @@ BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通 / Nice Bingo,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 综合娱乐,#genre#
-明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
-翡翠台,http://27.36.62.162:9090/live/xgfeicui_1500.m3u8
+明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
+翡翠台,http://27.36.62.162:9090/live/xgfeicui_1500.m3u8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
-TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438#http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
+TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438#
 CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
 纬来日本台,vjms://23.237.33.155:8500:3502/live/cid=102#http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
 国兴卫视,vjms://23.237.33.155:8500:3502/live/cid=424#http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
