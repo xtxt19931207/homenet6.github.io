@@ -82,7 +82,7 @@ CinemaWorld,http://pili-live-hdl.qhmywl.com:80/dsdtv/357252de83720e30d40c00bfba6
 华艺影剧,http://pili-live-hdl.qhmywl.com:80/dsdtv/49d33b7521ceef2115572e8906e9f906.m3u8
 CHC高清电影,http://27.36.62.162:9090/live/CHCHD_7000.m3u8
 CHC家庭电影,http://27.36.62.162:9090/live/CHChometheatre_1500.m3u8
-CHC动作电影,http://27.36.62.162:9090/live/CHCactionmovie_1500.m3u8
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台新闻,#genre#
