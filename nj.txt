@@ -113,13 +113,12 @@ BBC World News,http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aef
 港台育乐,#genre#
 Discovery科学,vjms://121.14.222.75:8500:3502/live/cid=457#http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
 DiscoveryAsia,vjms://121.14.222.75:8500:3502/live/cid=440#http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
-Discovery,vjms://121.14.222.75:8500:3502/live/cid=3#http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv
+动物星球,vjms://121.14.222.75:8500:3502/live/cid=3#http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv
 国家地理野生频道,vjms://121.14.222.75:8500:3502/live/cid=263#http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
 国家地理频道,vjms://121.14.222.75:8500:3502/live/cid=115#http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8#http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
 美食星球,http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
 BBCLifestyle,http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv
 年代MUCH,vjms://121.14.222.75:8500:3502/live/cid=439#http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.flv
-动物星球,http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 博斯高球1台,http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
