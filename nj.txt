@@ -139,7 +139,7 @@ CN卡通频道,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.
 明珠台,vjms://121.14.222.75:8500:3502/live/cid=367#vjms://113.96.133.24:8500:3502/live/cid=367#http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv#http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
 翡翠台,vjms://121.14.222.75:8500:3502/live/cid=362#vjms://113.96.133.24:8500:3502/live/cid=362#http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv#http://59.148.103.41:8000/bysid/1#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#http://27.36.62.162:9090/live/xgfeicui_1500.m3u8
 TVBS欢乐台,vjms://121.14.222.75:8500:3502/live/cid=438#http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
-TVB星河频道,msc://CXHMovie#mitv://120.79.144.205:9906/5dc08f2a000c358f01b830afaa89e001.ts#http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+TVB星河频道,http://csbb.52live.win/tvbxinghe.m3u8?tm=1576187371&amp;key=1760013c3a71494423b3b21227eb2369#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
 CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
 纬来日本台,vjms://121.14.222.75:8500:3502/live/cid=102#http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
 国兴卫视,vjms://121.14.222.75:8500:3502/live/cid=424#http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
