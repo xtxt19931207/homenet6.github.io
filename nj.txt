@@ -121,7 +121,6 @@ BBCLifestyle,http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856
 年代MUCH,vjms://121.14.222.75:8500:3502/live/cid=439#http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.flv
 Discovery EVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts
 Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
-高清探索频道 HD,p2p://lino.homeunix.com:6007/5acb89750000af6a2c1ba62e06531ad6.ts
 国家地理People HD,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts
 Discovery Asia,p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts
 Discovery HD,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts
