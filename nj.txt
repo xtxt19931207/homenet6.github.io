@@ -145,6 +145,9 @@ CN卡通频道,vjms://23.237.33.155:8500:3502/live/cid=422#http://pili-live-hdl.
 BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通 / Nice Bingo,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+龙华动画,P2p://sdgdklwos.finetv.tv:9906/59fd26690002a01402aa86134bf26468
+东森幼幼,P2p://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
+MOMO亲子台,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038
 综合娱乐,#genre#
 明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 翡翠台,http://27.36.62.162:9090/live/xgfeicui_1500.m3u8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
