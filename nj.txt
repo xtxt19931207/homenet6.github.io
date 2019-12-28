@@ -122,6 +122,7 @@ DiscoveryAsia,vjms://23.237.33.155:8500:3502/live/cid=440#http://pili-live-hdl.q
 美食星球,http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
 BBCLifestyle,http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv
 年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439#http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.flv
+SMART頻道,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 FOX体育,rtmp://59.124.75.137/sat/tv731#http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
@@ -142,14 +143,15 @@ ELEVEN体育二台,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd48
 亲子卡通,#genre#
 迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通频道,vjms://23.237.33.155:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
-BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-靖洋卡通 / Nice Bingo,http://61.58.60.230:9319/live/206.m3u8
+BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 综合娱乐,#genre#
 明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
 翡翠台,http://27.36.62.162:9090/live/xgfeicui_1500.m3u8
 TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438
+TVBS精彩台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
 纬来日本台,vjms://23.237.33.155:8500:3502/live/cid=102#http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
 国兴卫视,vjms://23.237.33.155:8500:3502/live/cid=424#http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
