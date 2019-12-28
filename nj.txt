@@ -130,7 +130,6 @@ ELEVEN体育二台,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd48
 FoxSports3,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
 纬来体育台,vjms://121.14.222.75:8500:3502/live/cid=202#http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
 智林体育,http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
-NBA,vjms://113.96.133.24:8500:3502/live/cid=227
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 亲子卡通,#genre#
 迪士尼卡通,vjms://121.14.222.75:8500:3502/live/cid=361
