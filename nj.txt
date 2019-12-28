@@ -109,6 +109,8 @@ BBC World News,http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aef
 凤凰资讯,vjms://113.96.133.24:8500:3502/live/cid=401
 三立新闻,vjms://121.14.222.75:8500:3502/live/cid=352
 壹新闻,vjms://121.14.222.75:8500:3502/live/cid=445
+CNN(英文),vjms://58.215.133.184:8500:3502/live/cid=428#vjms://58.215.133.185:8500/live/cid=428#vjms://58.215.133.185:8500/live/cid=428
+FOXNews(英文),vjms://58.215.133.185:8500:3502/live/cid=97
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台育乐,#genre#
 Discovery科学,vjms://121.14.222.75:8500:3502/live/cid=457#http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv#p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts
