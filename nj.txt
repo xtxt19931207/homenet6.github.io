@@ -124,6 +124,7 @@ DiscoveryAsia,vjms://23.237.33.155:8500:3502/live/cid=440#http://pili-live-hdl.q
 BBCLifestyle,http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv
 年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439#http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.flv
 SMART頻道,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
+歷史頻道,p8p://0198.02686.cc:16871/5d1a69c40001cae711be1b366a85c718.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 FOX体育,rtmp://59.124.75.137/sat/tv731#http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
@@ -147,6 +148,8 @@ CN卡通频道,vjms://23.237.33.155:8500:3502/live/cid=422#http://pili-live-hdl.
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+卡通頻道,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
+東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 综合娱乐,#genre#
 明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
 翡翠台,http://27.36.62.162:9090/live/xgfeicui_1500.m3u8
