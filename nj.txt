@@ -88,6 +88,10 @@ CinemaWorld,http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c4
 WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
 AXN,vjms://121.14.222.75:8500:3502/live/cid=2#http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
 FOXHD,http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
+CHC高清电影,http://27.36.62.162:9090/live/CHCHD_7000.m3u8
+CHC家庭电影,http://27.36.62.162:9090/live/CHChometheatre_1500.m3u8
+CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台新闻,#genre#
 TVB无线新闻台,vjms://121.14.222.75:8500:3502/live/cid=366#vjms://113.96.133.24:8500:3502/live/cid=366
