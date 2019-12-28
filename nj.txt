@@ -141,7 +141,6 @@ ELEVEN体育二台,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd48
 亲子卡通,#genre#
 迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通频道,vjms://23.237.33.155:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
-东森幼幼台,vjms://23.237.33.155:8500:3502/live/cid=344#http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.flv
 BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通 / Nice Bingo,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
@@ -165,7 +164,6 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 东森综合台,vjms://23.237.33.155:8500:3502/live/cid=333#http://pili-live-hdl.qhmywl.com/dsdtv/7485194388c0ca1d43a664701afb2ff2.flv
 中天综合台,vjms://23.237.33.155:8500:3502/live/cid=341#http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.flv
 中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
-东森超视,vjms://113.96.133.24:8500:3502/live/cid=426
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 精彩4K,#genre#
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
