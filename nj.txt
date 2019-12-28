@@ -92,6 +92,7 @@ CHC高清电影,http://27.36.62.162:9090/live/CHCHD_7000.m3u8
 CHC家庭电影,http://27.36.62.162:9090/live/CHChometheatre_1500.m3u8
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台新闻,#genre#
 TVB无线新闻台,vjms://23.237.33.155:8500:3502/live/cid=366#vjms://113.96.133.24:8500:3502/live/cid=366
@@ -148,13 +149,14 @@ BabyFirst臺灣,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 翡翠台,http://27.36.62.162:9090/live/xgfeicui_1500.m3u8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
-TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438
+TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438#P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
+TVBS精采台,P2p://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
 CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
 纬来日本台,vjms://23.237.33.155:8500:3502/live/cid=102#http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv
 国兴卫视,vjms://23.237.33.155:8500:3502/live/cid=424#http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
 八大第一台,vjms://23.237.33.155:8500:3502/live/cid=441#http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.flv
 中天娱乐台,vjms://23.237.33.155:8500:3502/live/cid=350#http://pili-live-hdl.qhmywl.com/dsdtv/25ea449d554a16ec584e82d039065e5f.flv
-台视综合台,vjms://23.237.33.155:8500:3502/live/cid=453#http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.flv
+台视综合台,vjms://23.237.33.155:8500:3502/live/cid=453#P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7#http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.flv
 华视,vjms://23.237.33.155:8500:3502/live/cid=451#vjms://113.96.133.24:8500:3502/live/cid=451#http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv
 中视,vjms://23.237.33.155:8500:3502/live/cid=452#vjms://113.96.133.24:8500:3502/live/cid=452#http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
 霹雳台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
