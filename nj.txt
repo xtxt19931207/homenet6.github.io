@@ -156,3 +156,9 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 中天综合台,vjms://121.14.222.75:8500:3502/live/cid=341#http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.flv
 中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
+精彩4K,#genre#
+BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
+DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
