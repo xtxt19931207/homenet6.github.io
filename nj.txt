@@ -108,6 +108,8 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 中视新闻,vjms://113.96.133.24:8500:3502/live/cid=452#http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
 东森财经新闻台,vjms://23.237.33.155:8500:3502/live/cid=456#http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
 三立新闻,vjms://23.237.33.155:8500:3502/live/cid=352
+民视新闻,vjms://23.237.33.155:8500:3502/live/cid=454
+年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455
 壹新闻,vjms://23.237.33.155:8500:3502/live/cid=445
 SKY NEWS,http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
 BBC World News,http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
