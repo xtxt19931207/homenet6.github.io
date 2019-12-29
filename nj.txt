@@ -151,8 +151,8 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 東森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 综合娱乐,#genre#
-明珠台,http://27.36.62.162:9090/live/xgmingzhu_1500.m3u8
-翡翠台,http://27.36.62.162:9090/live/xgfeicui_1500.m3u8
+明珠台,vjms://121.14.222.75:8500:3502/live/cid=367
+翡翠台,vjms://121.14.222.75:8500:3502/live/cid=362
 TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438
 TVBS精彩台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
