@@ -86,22 +86,10 @@ CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台新闻,#genre#
-凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-凤凰中文(备1),rtmp://58.200.131.2:1935/livetv/fhzw
-凤凰中文(备2),http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文(备3),http://125.210.152.21:9090/live/FHZW.m3u8
-凤凰中文(备4),http://live.centerch.com/fhws.m3u8
-凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-凤凰资讯(备1),http://125.210.152.21:9090/live/FHZX.m3u8
-凤凰资讯(备2),http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰资讯(备3),http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-凤凰香港(备1),http://192.200.97.98:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰香港(备2),http://crack.watch.hls.chunfei.top/live/atv.m3u8?token=CrackWatch&channel=44ca88e2d2844038cdb169e25ac5fbbf
-凤凰香港(备3),http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻(备1),http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162
-无线新闻(备2),http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
+凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE#rtmp://58.200.131.2:1935/livetv/fhzw#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://125.210.152.21:9090/live/FHZW.m3u8#http://live.centerch.com/fhws.m3u8
+凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE#http://125.210.152.21:9090/live/FHZX.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#http://192.200.97.98:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://crack.watch.hls.chunfei.top/live/atv.m3u8?token=CrackWatch&channel=44ca88e2d2844038cdb169e25ac5fbbf#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=m02000000000015197763&ct=17993&tsum=1c7d632497774063f2f2f6554e23d162#http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 寰宇新闻,http://pili-live-hdl.qhmywl.com:80/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8
 中天新闻台,http://pili-live-hdl.qhmywl.com:80/dsdtv/e1a397539e76f45bbbf39d1467024aa3.m3u8
 东森新闻台,http://pili-live-hdl.qhmywl.com:80/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
@@ -157,3 +145,4 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
 DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
+爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
