@@ -160,8 +160,8 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 
 港台体育,#genre#
-FOXSPORT1,http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
-FOXSPORT2,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
+FOXSPORT1,http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv#rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731
+FOXSPORT2,rtmp://59.124.75.137/sat/tv741#rtmp://59.124.75.137/sat/tv741
 FOXSPORT3,vjms://58.215.133.185:8500:3502/live/cid=95#http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv#vjms://121.14.222.75:8500:3502/live/cid=95
 爱尔达体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#vjms://121.14.222.75:8500:3502/live/cid=266#vjms://23.237.33.155:8500:3502/live/cid=266
 博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265#http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv#vjms://121.14.222.75:8500:3502/live/cid=265#vjms://23.237.33.155:8500:3502/live/cid=265
