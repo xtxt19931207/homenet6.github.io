@@ -292,6 +292,39 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="精彩4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6100" tvg-name="信吉电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="综合娱乐",信吉电视
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-id="6105" tvg-name="台湾艺术台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TACT.png" group-title="港台育乐",台湾艺术
+http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港台新闻",三立新闻
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="综合娱乐",民视
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="港台影视",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="综合娱乐",靖天国际
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png" group-title="港台影视",靖洋戏剧
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="综合娱乐",靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" group-title="综合娱乐",靖天欢乐
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-id="6151" tvg-name="靖天育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png" group-title="港台育乐",靖天育乐
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天资讯.png" group-title="港台新闻",靖天资讯
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" group-title="港台影视",靖天映画
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png" group-title="港台影视",靖洋卡通 / Nice Bingo
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台育乐",BabyFirst台湾
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="100003" tvg-name="鬼影特工" tvg-logo="https://i.loli.net/2019/12/17/PozKAeqw2Xp9uCk.jpg" group-title="佳片赏析",鬼影特工
 https://patient-bread-bb31.bbsok.workers.dev/鬼影特工.6.underground.2019.internal.1080p.web.x264-strife.mkv
 #EXTINF:-1 tvg-id="100005" tvg-name="爱尔兰人" tvg-logo="https://i.loli.net/2019/12/17/NhRLeib4Zsaol8x.jpg" group-title="佳片赏析",爱尔兰人
@@ -402,3 +435,5 @@ http://cn1.kankia.com/hls/20191220/bd636dc3c84dfbb218639f91199fabba/1576776144/i
 http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第46集
 http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
+
+
