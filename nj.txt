@@ -84,7 +84,6 @@ CNN,mitv://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts#vjms://121.14.
 BBC,mitv://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts#vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://121.14.222.75:8500:3502/live/cid=97
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-
 港台影视,#genre#
 HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts#vjms://23.237.33.155:8500:3502/live/cid=436#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://121.14.222.75:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181#http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
@@ -139,7 +138,6 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 卫视西片,mitv://198.255.74.87:9906/5dc08f10000d86b501b7cb761f893b59.ts
 有线电影台,mitv://198.255.74.87:9906/5dc08f2d000c62c601b83c73e7cdd4b0.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-
 综合娱乐,#genre#
 TVB J2,mitv://198.255.74.87:9906/5dc08f31000cea6501b84c3662de0c85.ts#mitv://198.255.74.87:9906/5dc08f31000cea6501b84c3662de0c85.ts#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#vjms://23.237.33.155:8500:3502/live/cid=368#vjms://23.237.33.155:8500:3502/live/cid=363
 TVB明珠台,http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#mitv://198.255.74.87:9906/5dc08f2e0006a51101b83ee3493e8249.ts#vjms://23.237.33.155:8500:3502/live/cid=367
@@ -149,7 +147,6 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 TVB经典,mitv://198.255.74.87:9906/5dc08f2a000b5d9c01b8307844e4695f.ts
 娱乐新闻台,mitv://198.255.74.87:9906/5dc08f2a000a876a01b8304145a27487.ts
 公视,vjms://58.215.133.185:8500:3502/live/cid=236#mitv://198.255.74.87:9906/5dc08f2a0006fddc01b82f5912b802f7.ts#vjms://23.237.33.155:8500:3502/live/cid=236
-
 民视,vjms://58.215.133.185:8500:3502/live/cid=450#mitv://198.255.74.87:9906/5dc08f2a000436a401b82ea3055bd05c.ts#vjms://23.237.33.155:8500:3502/live/cid=450
 华视,http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv#mitv://198.255.74.87:9906/5dc08f2a00023b0c01b82e21a7a02717.ts#vjms://23.237.33.155:8500:3502/live/cid=451
 中视,mitv://198.255.74.87:9906/5dc08f2a0008c37701b82fcd5a93c27e.ts#http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv#vjms://23.237.33.155:8500:3502/live/cid=452
@@ -182,9 +179,7 @@ astro 华丽,mitv://198.255.74.87:9906/5dc4e32300010cc212a0327c9fcab557.ts#p2p:/
 寰宇综合,mitv://198.255.74.87:9906/5dc08f180006b28401b7e8f64fa36153.ts
 ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
-
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-
 港台体育,#genre#
 FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731#http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
 FOXSPORT2,http://pili-live-hdl.qhmywl.com:80/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.m3u8#rtmp://59.124.75.137/sat/tv741#rtmp://59.124.75.137/sat/tv741
@@ -205,7 +200,6 @@ ElevenSportPlus,http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e309
 ElevenSport2,http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
 NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-
 港台育乐,#genre#
 国家地理野生,mitv://198.255.74.87:9906/5dc08f09000204d701b7ad2baed33465.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理,mitv://198.255.74.87:9906/5dc08f090003e26a01b7ada6c90177d7.ts#vjms://58.215.133.185:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
@@ -236,7 +230,6 @@ BBC earth,mitv://198.255.74.87:9906/5dc08f01000924dc01b78fbe69aa63f6.ts
 E! Entertainment,mitv://198.255.74.87:9906/5dc08f050005745d01b79e6d8bd2cbe8.ts
 Ci罪案偵緝 HD,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-
 轮播频道,#genre#
 科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 好莱坞电影,http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
@@ -255,7 +248,6 @@ Ci罪案偵緝 HD,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
 古装剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
-
 亲子卡通,#genre#
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#mitv://198.255.74.87:9906/5dc08f050008e03301b79f4dc69f2a18.ts#vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,mitv://198.255.74.87:9906/5dc08f050009aec901b79f82aedce9ba.ts#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
@@ -269,13 +261,11 @@ BabyTV,mitv://198.255.74.87:9906/5dc08f0500080fa601b79f171d990d48.ts
 Nick Jr,mitv://198.255.74.87:9906/5dc08f020002568501b791e8084cb957.ts
 MY KIDS,mitv://198.255.74.87:9906/5dc08f0200017dde01b791b183d54845.ts
 小太阳,mitv://198.255.74.87:9906/5dc4e322000e827212a03206729ccc38.ts
-
 精彩4K,#genre#
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-
 NewTV,#genre#
 NewTV古装,http://39.135.36.150:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=1106497909461643183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7rI6cyOBdMQcbb7pGYvKkkE4PU3Zf45kDZim939dEFvAtUmU8crfqEUv5zpewkRlr9zZahSqXGjBKN9OvmeMwv
 NewTV动作,http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
