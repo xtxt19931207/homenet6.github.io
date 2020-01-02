@@ -93,7 +93,7 @@ HBO,vjms://58.215.133.185:8500:3502/live/cid=261#vjms://121.14.222.75:8500:3502/
 东森电影,mitv://198.255.74.87:9906/5dc08f260007c9ef01b81fee3b2ada72.ts#p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts#vjms://23.237.33.155:8500:3502/live/cid=338#http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
 东森洋片台,mitv://198.255.74.87:9906/5dc08f260006fe2e01b81fb9af371dd5.ts#http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
 靖天电影台,mitv://198.255.74.87:9906/5dc08f1c0000812601b7f70010bb4246.ts#p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts#http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
-龙华电影,mitv://198.255.74.87:9906/5dc08f230003b10001b813293bd32673.ts#http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+龙华电影,http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华经典,mitv://198.255.74.87:9906/5dc08f230000f2cc01b8127555450c4d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv#p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 龙华洋片,mitv://198.255.74.87:9906/5dc08f2300048cfe01b81361fc3b1d55.ts#http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
 星卫HD电影,http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
