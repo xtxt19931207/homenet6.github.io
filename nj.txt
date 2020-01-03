@@ -48,7 +48,7 @@ CCTV-17农村农业,http://39.135.36.140:18890/000000001000/1000000005000056836/
 福建东南卫视,http://39.135.36.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
 贵州卫视,http://39.135.36.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 甘肃卫视,http://39.135.36.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
-广东体育,vjms://121.14.222.75:8500:3502/live/cid=336#vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
+广东体育,vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 
 港台新闻,#genre#
@@ -59,7 +59,7 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#mitv://198.255.74.87:9906/5dc08f2d000e208e01b83ce5cbcfd216.ts#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#vjms://23.237.33.155:8500:3502/live/cid=400#rtmp://58.200.131.2:1935/livetv/fhzw#http://liveali.ifeng.com/live/FHZW.flv
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts#vjms://23.237.33.155:8500:3502/live/cid=401#rtmp://58.200.131.2:1935/livetv/fhzx#http://liveali.ifeng.com/live/FHZX.flv
-年代新闻,mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://23.237.33.155:8500:3502/live/cid=455#vjms://58.215.133.185:8500:3502/live/cid=455
+年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455#mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://58.215.133.185:8500:3502/live/cid=455
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443#http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv#mitv://198.255.74.87:9906/5dc08f2700008beb01b821fba13d9e32.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://23.237.33.155:8500:3502/live/cid=443
 三立新闻,mitv://198.255.74.87:9906/5dc08f23000011a301b8123cd9eeb306.ts#vjms://58.215.133.185:8500:3502/live/cid=352#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
 东森新闻,vjms://58.215.133.185:8500:3502/live/cid=340#http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv#vjms://121.14.222.75:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://23.237.33.155:8500:3502/live/cid=340
@@ -78,7 +78,7 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,mitv://198.255.74.87:9906/5dc08f2e0005d03f01b83eac85883a60.ts
-TVBS,vjms://121.14.222.75:8500:3502/live/cid=349#vjms://58.215.133.185:8500:3502/live/cid=349
+TVBS,vjms://23.237.33.155:8500:3502/live/cid=349#vjms://58.215.133.185:8500:3502/live/cid=349
 CNBC,mitv://198.255.74.87:9906/5dc08efe000aa9d301b7846ac5b1b53c.ts#vjms://58.215.133.185:8500:3502/live/cid=98#vjms://121.14.222.75:8500:3502/live/cid=98#p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts#vjms://23.237.33.155:8500:3502/live/cid=98
 CNN,mitv://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts#vjms://121.14.222.75:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.33.155:8500:3502/live/cid=428
 BBC,mitv://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts#vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
@@ -147,7 +147,7 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 TVB经典,mitv://198.255.74.87:9906/5dc08f2a000b5d9c01b8307844e4695f.ts
 娱乐新闻台,mitv://198.255.74.87:9906/5dc08f2a000a876a01b8304145a27487.ts
 公视,vjms://58.215.133.185:8500:3502/live/cid=236#mitv://198.255.74.87:9906/5dc08f2a0006fddc01b82f5912b802f7.ts#vjms://23.237.33.155:8500:3502/live/cid=236
-民视,vjms://58.215.133.185:8500:3502/live/cid=450#mitv://198.255.74.87:9906/5dc08f2a000436a401b82ea3055bd05c.ts#vjms://23.237.33.155:8500:3502/live/cid=450
+民视,vjms://58.215.133.185:8500:3502/live/cid=450#mitv://198.255.74.87:9906/5dc08f2a000436a401b82ea3055bd05c.ts#vjms://23.237.33.155:8500:3502/live/cid=450#
 华视,http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv#mitv://198.255.74.87:9906/5dc08f2a00023b0c01b82e21a7a02717.ts#vjms://23.237.33.155:8500:3502/live/cid=451
 中视,mitv://198.255.74.87:9906/5dc08f2a0008c37701b82fcd5a93c27e.ts#http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv#vjms://23.237.33.155:8500:3502/live/cid=452
 台视,mitv://198.255.74.87:9906/5dc08f2a00035c9801b82e6be303b379.ts#vjms://23.237.33.155:8500:3502/live/cid=453
