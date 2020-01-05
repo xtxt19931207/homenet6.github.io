@@ -176,7 +176,6 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts#mitv://198.255
 寰宇综合,mitv://198.255.74.87:9906/5dc08f180006b28401b7e8f64fa36153.ts
 ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
-纬来精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e95117d1e49b2d550d9f
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731#http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
