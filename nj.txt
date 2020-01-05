@@ -142,7 +142,7 @@ TVB J2,http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv#m
 TVB明珠台,http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#mitv://198.255.74.87:9906/5dc08f2e0006a51101b83ee3493e8249.ts#vjms://23.237.33.155:8500:3502/live/cid=367
 TVB翡翠台,http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#mitv://198.255.74.87:9906/5dc08f31000b2bdc01b84bc33d70901a.ts#vjms://23.237.33.155:8500:3502/live/cid=362#http://m.567it.com/jade.m3u8
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438#mitv://198.255.74.87:9906/5dc08f1f0000319d01b802a4148951a3.ts
-TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
+TVBS精采台,mitv://fccsovh.pvbox.live:18912/5bdbf3b20000e966d2177540400d0818#p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 公视,vjms://58.215.133.185:8500:3502/live/cid=236#mitv://198.255.74.87:9906/5dc08f2a0006fddc01b82f5912b802f7.ts#vjms://23.237.33.155:8500:3502/live/cid=236
 华视,http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv#mitv://198.255.74.87:9906/5dc08f2a00023b0c01b82e21a7a02717.ts#vjms://23.237.33.155:8500:3502/live/cid=451
 民视,vjms://23.237.33.155:8500:3502/live/cid=226#mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
@@ -176,6 +176,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts#mitv://198.255
 寰宇综合,mitv://198.255.74.87:9906/5dc08f180006b28401b7e8f64fa36153.ts
 ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
+纬来精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e95117d1e49b2d550d9f
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731#http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
