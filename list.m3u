@@ -199,8 +199,6 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
 #EXTINF:-1 tvg-id="7207" tvg-name="MyCinemaEurope" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MyCinemaEurope.png" group-title="港台影视",MyCinemaEurope
 http://pili-live-hdl.qhmywl.com:80/dsdtv/2d2f46a778c93f01b614213456fc97fc.m3u8
-#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="港台影视",CinemaWorld
-http://pili-live-hdl.qhmywl.com:80/dsdtv/357252de83720e30d40c00bfba69c497.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="港台影视",福克斯家庭电影
 http://pili-live-hdl.qhmywl.com:80/dsdtv/440b3d3c474813d7ead7d3a795978e69.m3u8
 #EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="港台影视",影迷数位电影
