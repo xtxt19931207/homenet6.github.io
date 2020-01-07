@@ -120,7 +120,7 @@ CHC家庭电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/1000010000
 CHC动作电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
 CHC高清电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
 MyCinemaEurope,http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
-WarnerTV,mitv://198.255.74.87:9906/5dc08f020003327101b7922132df84c4.ts#http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
+WarnerTV,mitv://198.255.74.87:9906/5dc08f020003327101b7922132df84c4.ts
 AXN,vjms://58.215.133.185:8500:3502/live/cid=2#http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv#mitv://198.255.74.87:9906/5dc08efe000c72ce01b784df27914703.ts#vjms://23.237.33.155:8500:3502/live/cid=2
 CINEMAX,mitv://198.255.74.87:9906/5dc08f0c000d7d5501b7bbd3536df5c6.ts#http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
 CinemaWorld,mitv://198.255.74.87:9906/5dc08f10000960c801b7ca669ad1a62d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
@@ -161,7 +161,6 @@ JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts#mitv://1
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 东森综合,vjms://23.237.33.155:8500:3502/live/cid=333#mitv://198.255.74.87:9906/5dc08f260006c1de01b81faa0bbc88c4.ts
 有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
-霹雳台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
 中视经典,http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8#mitv://198.255.74.87:9906/5dc08f2a0009aab201b83009bcd89228.ts
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts#mitv://198.255.74.87:9906/5dc08efe000f1bc901b7858d513f5c81.ts
