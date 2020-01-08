@@ -11,7 +11,7 @@ CCTV-9纪录,http://117.148.187.83/PLTV/88888888/224/3221226156/index.m3u8#rtmp:
 CCTV-10科教,http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226199/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv10hd
 CCTV-11戏曲,rtmp://58.200.131.2:1935/livetv/cctv11
 CCTV-12社会与法,http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226167/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv12hd
-CCTV-13新闻,http://223.82.250.72/ysten-business/live/cctv-13/1.m3u8#http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226021/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv3hd
+CCTV-13新闻,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226021/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv3hd
 CCTV-14少儿,http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv14hd
 CCTV-15音乐,http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/#http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
 CCTV-5+体育,http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv5phd
