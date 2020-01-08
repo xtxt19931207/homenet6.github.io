@@ -6,7 +6,7 @@ CCTV-4国际,http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/#rtm
 CCTV-5体育,http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv5hd
 CCTV-6高清,http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/#http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv6hd
 CCTV-7军事农业,http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv7hd
-CCTV-8高清,rtmp://58.200.131.2:1935/livetv/cctv8hd
+CCTV-8高清,http://111.40.205.87/PLTV/88888888/224/3221225608/index.m3u8
 CCTV-9纪录,http://117.148.187.83/PLTV/88888888/224/3221226156/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv9
 CCTV-10科教,http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226199/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv10hd
 CCTV-11戏曲,rtmp://58.200.131.2:1935/livetv/cctv11
