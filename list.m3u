@@ -20,11 +20,11 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10科教
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000170.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV-11戏曲
-http://117.169.120.140:8080/live/cctv-11/.m3u8
+http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV-12社会与法
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000171.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13新闻
-http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226021/index.m3u8
+http://211.136.65.143:80/wh7f454c46tw1474552676_1583974371/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b/3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZo1ExU8QlbqLGfhx/PstzTwAmbfM3Mo6eVM31XGJS5NQ==:20181012131800,54C57AADF598,183.93.146.195,20181012131800,10000100000000050000000001936260,F35103AE12A41F708C374EF84A9DC456,-1,1,1,-1,,7,2201300,17,,4,END&icpid=88888888&RTS=1539321338&from=1&hms_devid=143
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV-14少儿
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000172.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15音乐
