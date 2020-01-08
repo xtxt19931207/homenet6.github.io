@@ -102,7 +102,6 @@ http://ivi.bupt.edu.cn/hls/gdtv.m3u8
 http://ivi.bupt.edu.cn/hls/ahtv.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
 http://ivi.bupt.edu.cn/hls/sztv.m3u8
-
 #EXTINF:-1 tvg-id="100100" tvg-name="反馈交流群" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="卫视频道",反馈交流群
 http://51buy.giize.com/1.mp4
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台新闻",凤凰中文
