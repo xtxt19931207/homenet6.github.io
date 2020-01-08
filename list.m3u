@@ -231,7 +231,7 @@ rtmp://58.200.131.2:1935/livetv/startv
 http://pili-live-hdl.qhmywl.com:80/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
 #EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="综合娱乐",中视经典
 http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2020/01/01/yOXAWbIjh1CYgKD.jpg" group-title="港台娱乐",有线综合娱乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2020/01/01/yOXAWbIjh1CYgKD.jpg" group-title="综合娱乐",有线综合娱乐台
 http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
 #EXTINF:-1 tvg-id="100100" tvg-name="反馈交流群" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="综合娱乐",反馈交流群
 http://51buy.giize.com/1.mp4
