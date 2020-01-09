@@ -48,7 +48,6 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 贵州卫视,http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 甘肃卫视,http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 广东体育,vjms://121.14.222.75:8500:3502/live/cid=336#vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
-港台新闻,#genre#
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台新闻,#genre#
 TVB无线新闻台,mitv://198.255.74.87:9906/5dc08f31000c0e8e01b84bfda44773e0.ts#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#vjms://23.237.33.155:8500:3502/live/cid=366
