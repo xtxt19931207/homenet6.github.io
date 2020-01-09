@@ -70,7 +70,6 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#vjms://121.14.222.75:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#vjms://23.237.33.155:8500:3502/live/cid=456
 寰宇财经台,mitv://198.255.74.87:9906/5dc08f180004f9d101b7e885e19b7517.ts#p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-纬来日本,mitv://198.255.74.87:9906/5dc08f26000a71c601b8209ce8a8e176.ts#vjms://23.237.33.155:8500:3502/live/cid=102
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8#vjms://23.237.33.155:8500:3502/live/cid=337
 香港开电视,mitv://198.255.74.87:9906/5dc08f31000ac63001b84ba99f178884.ts#http://media.fantv.hk/m3u8/archive/channel2.m3u8
 KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -169,6 +168,7 @@ tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts#mitv://198.255
 纬来综合,mitv://198.255.74.87:9906/5dc08f26000e212e01b8218d6fb61da5.ts
 靖天日本,mitv://198.255.74.87:9906/5dc08f1b000c12a001b7f60eb395631d.ts
 曼迪日本台,mitv://198.255.74.87:9906/5dc08f1800007a5301b7e75ee5782a3e.ts
+纬来日本,vjms://23.237.33.155:8500:3502/live/cid=102#mitv://198.255.74.87:9906/5dc08f26000a71c601b8209ce8a8e176.ts
 龙华日韩,http://vip.xp3.biz/HK.php?id=14
 寰宇综合,mitv://198.255.74.87:9906/5dc08f180006b28401b7e8f64fa36153.ts
 ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
